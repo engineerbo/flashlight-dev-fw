@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the test firmware for the boost driver found in the [hardware repository](https://github.com/realengineerbo/flashlight-dev-hw).
+This repository contains the test firmware for the boost driver found in the [hardware repository](https://github.com/engineerbo/flashlight-dev-hw).
 
 For a detailed explanation of this project, check out the [video series](https://www.youtube.com/playlist?list=PLYK5tmZIBWtEJjwAFE-49hSeELu9zoAmV) on the [Engineer Bo YouTube channel](https://youtube.com/@engineerbo).
 
